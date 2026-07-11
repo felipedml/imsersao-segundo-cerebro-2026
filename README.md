@@ -1,6 +1,3 @@
-Aqui está o README reescrito e completo:
-
-```markdown
 # Imersão Segundo Cérebro — Sistema de Clone Acadêmico
 
 **Felipe Asensi** | Salvador/BA | Julho de 2026
