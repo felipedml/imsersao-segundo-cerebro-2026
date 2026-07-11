@@ -320,7 +320,3 @@ Proibida a venda, revenda, reprodução ou redistribuição não autorizadas.
 
 **Bora clonar você. 🎓**
 ```
-
----
-
-Você pode copiar este markdown, colar diretamente no seu repositório (atualizando o README.md), e fazer commit!
